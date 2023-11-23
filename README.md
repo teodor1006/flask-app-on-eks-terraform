@@ -9,8 +9,6 @@
 5. Create AWS EKS Cluster by using Terraform
 6. Deploy the App on K8s
 
-![flow](images/architecture.png)
-
 ## **Prerequisites** 
 
 (Things to have before starting the projects)
