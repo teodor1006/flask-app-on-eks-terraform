@@ -275,7 +275,7 @@ You should be able to see your deployed app!!!
 Run the following command:
 
 ```
-terraform destroy -auto-approve -input=false -parallelism=1 planfile
+terraform destroy -auto-approve
 ```
 
 
